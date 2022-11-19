@@ -1,0 +1,10 @@
+{
+  "domain": "anthemav_tv",
+  "name": "Anthem A/V Receivers TV Remote",
+  "documentation": "https://github.com/gxlabs/homeassistant_anthemav-tv",
+  "requirements": ["anthemav==1.4.1"],
+  "codeowners": ["@glenrobertson"],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "loggers": ["anthemav_tv"]
+}
